@@ -23,7 +23,7 @@ const Page = () => {
         />
 
         <h1>
-          Comming <b>Soon</b>
+          Comming <>Soon</>
         </h1>
 
         <div className="powered-by">
