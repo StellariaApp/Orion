@@ -1,6 +1,6 @@
 # Orion API - Empowering Stellaria Services
 
-![Orion API](https://url-to-orion-api-banner.com)
+![Orion API](https://storage.googleapis.com/stackly-assets/stellaria/orion/orion-banner.png)
 
 **Orion** is a powerful API designed to provide seamless access to the core services offered by Stellaria. Unlock the potential of AI-driven solutions with Orion, enabling third-party integration and customization for enhanced user experiences.
 
@@ -15,9 +15,9 @@
 
 To start using Orion API, follow these steps:
 
-1. **Subscribe to Orion:** Choose a subscription plan on the [Orion Subscription Page](https://url-to-orion-subscription.com) and receive your API credentials.
+1. **Subscribe to Orion:** Choose a subscription plan on the [Orion Subscription Page](https://orion.stellaria.app/subscriptions) and receive your API credentials.
 
-2. **API Documentation:** Refer to the [Orion API Documentation](https://url-to-orion-api-docs.com) for detailed information on available endpoints, request formats, and response structures.
+2. **API Documentation:** Refer to the [Orion API Documentation](https://orion.stellaria.app/subscriptions/docs) for detailed information on available endpoints, request formats, and response structures.
 
 3. **Authentication:** Use your API credentials to authenticate your requests. You'll receive an API key and access token upon subscription.
 
@@ -28,7 +28,7 @@ Here's a simple example of how to use Orion API in JavaScript:
 ```javascript
 const apiKey = "YOUR_API_KEY";
 const accessToken = "YOUR_ACCESS_TOKEN";
-const apiUrl = "https://api.orion-stellaria.com";
+const apiUrl = "https://api.orion.stellaria.app";
 
 // Example: Get user information
 async function getUserInfo(userId) {
@@ -63,7 +63,7 @@ Refer to the documentation for more advanced use cases and endpoints.
 
 ## Contact Us
 
-For inquiries regarding the Orion API or subscription details, please reach out to our team through the contact information provided on the [Orion Subscription Page](https://url-to-orion-subscription.com).
+For inquiries regarding the Orion API or subscription details, please reach out to our team through the contact information provided on the [Orion Subscription Page](https://orion.stellaria.app/subscriptions).
 
 ---
 
